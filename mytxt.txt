@@ -1,3 +1,8 @@
 hi guys this is santhosh kumar 
 sk
 changed
+
+changed branch sk
+in master this lines are
+not reflected
+only in sk
